@@ -1,0 +1,28 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+
+# NuGet
+packages/
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.userprefs
+
+# ReSharper
+_ReSharper*/
+
+# OS
+.DS_Store
+Thumbs.db
